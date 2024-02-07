@@ -1,0 +1,34 @@
+{
+    "ntsuites.com": {
+        "siteId": "YuaOdjdFTCBfrhwGGNBumuJFPMsIQoLq",
+        "siteSecret": "3vSsc5mMWW6ETzUknxCfniWahzuVJScwfj8IWqjRAeNw1RIOVZJvjRX0PU7vW59l",
+        "blogId": 1,
+        "compression": true,
+        "webhookToken": "34a321c72b6147b622a632cabacbf1f3",
+        "home_url": "https:\/\/ntsuites.com",
+        "admin_url": "https:\/\/ntsuites.com\/wp-admin\/",
+        "hosting": "unknown",
+        "alwaysBuffer": true,
+        "isEzoicActive": false,
+        "isApoActive": false,
+        "isNginxHelperActive": false,
+        "isLateIntegrationInitRequired": false,
+        "isDlmActive": false,
+        "isWoocommerceCacheHandlerActive": false,
+        "isWoocommerceActive": false,
+        "isAeliaCurrencySwitcherActive": false,
+        "isGeoTargetingWPActive": false,
+        "dlm_downloading_url": null,
+        "dlm_download_endpoint": null,
+        "pluginVersion": "1.9.1",
+        "options_cache": {
+            "cache_handler_cache_handler": false,
+            "woocommerce_default_customer_address": false,
+            "wc_aelia_currency_switcher": {
+                "ipgeolocation_enabled": null
+            }
+        },
+        "additional_domains": []
+    },
+    "config_path": "4e090815e6eb2244b76b9e22c01641d6"
+}

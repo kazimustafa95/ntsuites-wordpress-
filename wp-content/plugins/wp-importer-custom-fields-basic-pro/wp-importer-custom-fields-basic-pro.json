@@ -1,0 +1,61 @@
+{
+    "Plugin Name": "WP Importer Custom Fields PRO",
+    "version": [
+      "4.0",
+      "3.0",
+      "2.0.8",
+      "2.0.7",
+      "2.0.6"
+    ],
+    "changelogs": {
+      "2.0.6": {
+        "0": "Added: Support for Toolset Latest Version"
+      },
+      "2.0.7": {
+        "0": "Added: Compatibility for WordPress 5.7.1",
+        "1": "Added: Import support for All in One SEO latest version 4.1.0.2"
+      },
+      "2.0.8":{
+        "0": "Fixed:post date changes to current date on updating posts",
+        "1": "Fixed:header manipulation issue",
+        "2": "Added:Add option(enable/disable button) in the settings page to delete the post that are not available in the csv file", 
+        "3": "Fixed:Jet engine Image field type custom fields issue on setitng image type as image url",
+        "4": "Fixed:user password not importing in hash format issue",
+        "5": "Fixed:import first image from csv column and skip other images in case of multi images provided for featured image import",
+        "6": "Added:user update via user_login field",
+        "7": "Fixed:jet engine date field issue",
+        "8": "Fixed:acf image gallery import support via image name",
+        "9": "Fixed:yoast seo facebook, twitter image fields import issue",
+        "10": "Changed:featured image text to image url for media images import",
+        "11": "Fixed:media images update issue",
+        "12": "Fixed:taxonomies, custom post type view log issue",
+        "13": "Fixed:removed deactivated plugin custom fields from mapping",
+        "14": "Added:pods relationship import support for user",
+        "15": "Added:multiple xml records import",
+        "16": "Fixed:yoast seo, rankmath fields import issue"
+      },
+      "3.0":{
+        "0": "Added: MetaBox AIO complete support",
+        "1": "Added: MetaBox Group extension support",
+        "2": "Added: JetEngine latest version 3.0.4 - relationship support",
+        "3": "Checked: Compatibility from  WordPress 6.0.2",
+        "4": "Updated: Support fixes",
+        "5": "Added: Vulnerability fixes",
+        "6": "Added: Alert message for php-zip extension missing",
+        "7": "Minor UI Changes"
+      },
+      "4.0":{
+        "0": "Added: CLI Integration",
+        "1": "Updated: Jetrelationship meta fixes",
+        "2": "Fixed: xml import struck at 0%",
+        "3": "Added: Separate table feature added for metabox aio plugin.",
+        "4": "Added:Error handling code 500,403,504 added for import.",
+        "5": "Updated: Support for image import via scheduling",
+        "6": "Fixed: CMB2 widget issue",
+        "7": "Added: Duplicate handling option in import method",
+        "8": "Fixed php parse error and [] error and testing acf fields,group,flexiblecontent,repeater",
+        "9": "Fixed: Learnpress curriculum, question import",
+        "10": "Fixed: Missing Jet relation widget in mapping section."
+      }
+    }
+}

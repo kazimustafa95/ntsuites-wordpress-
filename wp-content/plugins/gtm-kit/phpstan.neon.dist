@@ -1,0 +1,16 @@
+includes:
+	- phar://phpstan.phar/conf/bleedingEdge.neon
+parameters:
+	level: 0
+	bootstrapFiles:
+		- vendor/php-stubs/woocommerce-stubs/woocommerce-stubs.php
+		- vendor/php-stubs/woocommerce-stubs/woocommerce-packages-stubs.php
+	paths:
+		- inc/
+		- gtm-kit.php
+		- src/
+		- uninstall.php
+	ignoreErrors:
+		- '#edd[a-zA-Z0-9\\_]+ not found#'
+		- '#EDD[a-zA-Z0-9\\_]* not found#'
+		- '#Parameter \$[a-zA-Z0-9\\_]+ of method .* has invalid type EDD_[a-zA-Z0-9\\_]+\.#'

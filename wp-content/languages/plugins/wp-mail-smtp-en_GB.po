@@ -1,0 +1,536 @@
+# Translation of Plugins - WP Mail SMTP by WPForms &#8211; The Most Popular SMTP and Email Log Plugin - Stable (latest release) in English (UK)
+# This file is distributed under the same license as the Plugins - WP Mail SMTP by WPForms &#8211; The Most Popular SMTP and Email Log Plugin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-06-04 17:58:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: en_GB\n"
+"Project-Id-Version: Plugins - WP Mail SMTP by WPForms &#8211; The Most Popular SMTP and Email Log Plugin - Stable (latest release)\n"
+
+#. translators: %s - plugin name.
+#: src/WP.php:552
+msgid "WP Core (%s)"
+msgstr "WP Core (%s)"
+
+#: src/Connection.php:52
+msgid "Primary"
+msgstr "Primary"
+
+#: src/Admin/Pages/SmartRoutingTab.php:313
+msgid "Friendly reminder, your Primary Connection will be used for all emails that do not match the conditions above."
+msgstr "Friendly reminder, your Primary Connection will be used for all emails that do not match the conditions above."
+
+#: src/Admin/Pages/SmartRoutingTab.php:280
+msgid "Initiator"
+msgstr "Initiator"
+
+#: src/Admin/Pages/SmartRoutingTab.php:255
+msgid "Contact Emails (SMTP.com)"
+msgstr "Contact Emails (SMTP.com)"
+
+#: src/Admin/Pages/SmartRoutingTab.php:246
+#: src/Admin/Pages/SmartRoutingTab.php:305
+msgid "Add New Group"
+msgstr "Add New Group"
+
+#: src/Admin/Pages/SmartRoutingTab.php:213
+#: src/Admin/Pages/SmartRoutingTab.php:243
+#: src/Admin/Pages/SmartRoutingTab.php:302
+msgid "or"
+msgstr "or"
+
+#: src/Admin/Pages/SmartRoutingTab.php:196
+#: src/Admin/Pages/SmartRoutingTab.php:226
+#: src/Admin/Pages/SmartRoutingTab.php:285
+msgid "Is"
+msgstr "Is"
+
+#: src/Admin/Pages/SmartRoutingTab.php:181
+#: src/Admin/Pages/SmartRoutingTab.php:204
+#: src/Admin/Pages/SmartRoutingTab.php:234
+#: src/Admin/Pages/SmartRoutingTab.php:293
+msgid "And"
+msgstr "And"
+
+#: src/Admin/Pages/SmartRoutingTab.php:177
+msgid "Order"
+msgstr "Order"
+
+#: src/Admin/Pages/SmartRoutingTab.php:173
+msgid "Contains"
+msgstr "Contains"
+
+#: src/Admin/Pages/SmartRoutingTab.php:152
+#: src/Admin/Pages/SmartRoutingTab.php:264
+msgid "Arrow Down"
+msgstr "Arrow Down"
+
+#: src/Admin/Pages/SmartRoutingTab.php:149
+#: src/Admin/Pages/SmartRoutingTab.php:261
+msgid "Arrow Up"
+msgstr "Arrow Up"
+
+#: src/Admin/Pages/SmartRoutingTab.php:145
+#: src/Admin/Pages/SmartRoutingTab.php:257
+msgid "if the following conditions are met..."
+msgstr "if the following conditions are met..."
+
+#: src/Admin/Pages/SmartRoutingTab.php:143
+msgid "WooCommerce Emails (SendLayer)"
+msgstr "WooCommerce Emails (SendLayer)"
+
+#: src/Admin/Pages/SmartRoutingTab.php:141
+#: src/Admin/Pages/SmartRoutingTab.php:253
+msgid "Send with"
+msgstr "Send with"
+
+#: src/Admin/Pages/SmartRoutingTab.php:133
+msgid "Enable Smart Routing"
+msgstr "Enable Smart Routing"
+
+#. translators: %s - WPMailSMTP.com Upgrade page URL.
+#: src/Admin/Pages/SmartRoutingTab.php:111
+msgid "Send emails from different additional connections based on your configured conditions. Emails that do not match any of the conditions below will be sent via your Primary Connection. <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Upgrade to WP Mail SMTP Pro!</a>"
+msgstr "Send emails from different additional connections based on your configured conditions. Emails that do not match any of the conditions below will be sent via your Primary Connection. <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Upgrade to WP Mail SMTP Pro!</a>"
+
+#: src/Admin/Pages/SmartRoutingTab.php:312
+msgid "Light bulb icon"
+msgstr "Light bulb icon"
+
+#. translators: %s - Smart routing settings page url.
+#: src/Admin/Pages/SettingsTab.php:378
+msgid "Once you add an <a href=\"%s\">additional connection</a>, you can select it here."
+msgstr "Once you add an <a href=\"%s\">additional connection</a>, you can select it here."
+
+#. translators: %s - WPMailSMTP.com Upgrade page URL.
+#: src/Admin/Pages/SettingsTab.php:346
+msgid "Don’t worry about losing emails. Add an additional connection, then set it as your Backup Connection. Emails that fail to send with the Primary Connection will be sent via the selected Backup Connection. <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Upgrade to WP Mail SMTP Pro!</a>"
+msgstr "Don’t worry about losing emails. Add an additional connection, then set it as your Backup Connection. Emails that fail to send with the Primary Connection will be sent via the selected Backup Connection. <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Upgrade to WP Mail SMTP Pro!</a>"
+
+#: src/Admin/Pages/SettingsTab.php:86
+msgid "Primary Connection"
+msgstr "Primary Connection"
+
+#: src/Admin/Pages/AdditionalConnectionsTab.php:195
+msgid "Create advanced routing rules"
+msgstr "Create advanced routing rules"
+
+#: src/Admin/Pages/AdditionalConnectionsTab.php:192
+msgid "Use mailers for different purposes"
+msgstr "Use mailers for different purposes"
+
+#: src/Admin/Pages/AdditionalConnectionsTab.php:189
+msgid "Set a Backup Connection"
+msgstr "Set a Backup Connection"
+
+#: src/Admin/Pages/AdditionalConnectionsTab.php:186
+msgid "With additional connections you can..."
+msgstr "With additional connections you can..."
+
+#: src/Admin/Pages/AdditionalConnectionsTab.php:157
+#: src/Admin/Pages/SmartRoutingTab.php:50
+#: src/Admin/Pages/SmartRoutingTab.php:105
+msgid "Smart Routing"
+msgstr "Smart Routing"
+
+#: src/Admin/Pages/AdditionalConnectionsTab.php:152
+#: src/Admin/Pages/SettingsTab.php:340 src/Admin/Pages/SettingsTab.php:364
+msgid "Backup Connection"
+msgstr "Backup Connection"
+
+#. translators: %s - WPMailSMTP.com Upgrade page URL.
+#: src/Admin/Pages/AdditionalConnectionsTab.php:113
+msgid "Create additional connections to set a backup for your Primary Connection or to configure Smart Routing. <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Upgrade to WP Mail SMTP Pro!</a>"
+msgstr "Create additional connections to set a backup for your Primary Connection or to configure Smart Routing. <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Upgrade to WP Mail SMTP Pro!</a>"
+
+#: src/Admin/Pages/AdditionalConnectionsTab.php:49
+#: src/Admin/Pages/AdditionalConnectionsTab.php:107
+msgid "Additional Connections"
+msgstr "Additional Connections"
+
+#: assets/languages/wp-mail-smtp-vue.php:826 src/Admin/Area.php:142
+msgid "There was an error while processing the authentication request. The state key is invalid. Please try again."
+msgstr "There was an error while processing the authentication request. The state key is invalid. Please try again."
+
+#: assets/languages/wp-mail-smtp-vue.php:812
+#: src/Providers/Gmail/Options.php:187
+msgid "Remove OAuth Connection"
+msgstr "Remove OAuth Connection"
+
+#: assets/languages/wp-mail-smtp-vue.php:104
+msgid "It looks like we can't remove OAuth connection."
+msgstr "It looks like we can't remove OAuth connection."
+
+#: src/SiteHealth.php:296
+msgid "create the missing DB tables by clicking on this link"
+msgstr "create the missing DB tables by clicking on this link"
+
+#: src/SiteHealth.php:295
+msgid "Go to WP Mail SMTP settings page."
+msgstr "Go to WP Mail SMTP settings page."
+
+#: src/DBRepair.php:201
+msgid "Some DB Tables are still missing."
+msgstr "Some DB tables are still missing."
+
+#: src/DBRepair.php:197
+msgid "Table is"
+msgid_plural "Tables are"
+msgstr[0] "Table is"
+msgstr[1] "Tables are"
+
+#. translators: %1$s: Singular/Plural string, %2$s - the error messages from
+#. the migrations for the missing tables.
+#: src/DBRepair.php:192
+msgid "The following DB %1$s still missing. <br />%2$s"
+msgstr "The following DB %1$s still missing. <br />%2$s"
+
+#. translators: %1$s - Settings Page URL; %2$s - The aria label; %3$s - The
+#. text that will appear on the link.
+#: src/SiteHealth.php:293
+msgid "WP Mail SMTP is using custom database tables for some of its features. In order to work properly, the custom tables should be created, and it seems they are missing. Please try to <a href=\"%1$s\" target=\"_self\" aria-label=\"%2$s\" rel=\"noopener noreferrer\">%3$s</a>. If this issue persists, please contact our support."
+msgstr "WP Mail SMTP is using custom database tables for some of its features. In order to work properly, the custom tables should be created, and it seems they are missing. Please try to <a href=\"%1$s\" target=\"_self\" aria-label=\"%2$s\" rel=\"noopener noreferrer\">%3$s</a>. If this issue persists, please contact our support."
+
+#: src/DBRepair.php:174
+msgid "Missing DB tables were created successfully."
+msgstr "Missing DB tables were created successfully."
+
+#. translators: %1$s - missing table name; %2$s - error message.
+#: src/DBRepair.php:144
+msgid "<strong>Table</strong> %1$s: <strong>Reason</strong> %2$s"
+msgstr "<strong>Table</strong> %1$s: <strong>Reason</strong> %2$s"
+
+#: src/DBRepair.php:91
+msgid "Unknown."
+msgstr "Unknown."
+
+#. translators: %d - days count.
+#: src/Admin/Pages/DebugEventsTab.php:531
+msgid "%d Day"
+msgid_plural "%d Days"
+msgstr[0] "%d Day"
+msgstr[1] "%d Days"
+
+#: src/Admin/Pages/DebugEventsTab.php:517
+msgid "1 Year"
+msgstr "1 Year"
+
+#: src/Admin/Pages/DebugEventsTab.php:516
+msgid "6 Months"
+msgstr "6 Months"
+
+#: src/Admin/Pages/DebugEventsTab.php:515
+msgid "3 Months"
+msgstr "3 Months"
+
+#: src/Admin/Pages/DebugEventsTab.php:514
+msgid "1 Month"
+msgstr "1 Month"
+
+#: src/Admin/Pages/DebugEventsTab.php:513
+msgid "1 Week"
+msgstr "1 Week"
+
+#: src/Admin/Pages/DebugEventsTab.php:261
+msgid "Debug events older than the selected period will be permanently deleted from the database."
+msgstr "Debug events older than the selected period will be permanently deleted from the database."
+
+#: src/Admin/Pages/DebugEventsTab.php:252
+msgid "Forever"
+msgstr "Forever"
+
+#: src/Admin/Pages/DebugEventsTab.php:246
+msgid "Events Retention Period"
+msgstr "Events Retention Period"
+
+#. translators: %1$d - index number; %2$s - function name; %3$s - file path;
+#. %4$s - line number.
+#: src/Admin/DebugEvents/Event.php:395
+msgid "[%1$d] %2$s called at [%3$s:%4$s]"
+msgstr "[%1$d] %2$s called at [%3$s:%4$s]"
+
+#: src/Admin/DebugEvents/Event.php:389
+msgid "Backtrace:"
+msgstr "Backtrace:"
+
+#: assets/languages/wp-mail-smtp-vue.php:443
+msgid "Track when a link in an email is clicked"
+msgstr "Track when a link in an email is clicked"
+
+#: assets/languages/wp-mail-smtp-vue.php:196
+msgid "Complete Email Reports"
+msgstr "Complete Email Reports"
+
+#: assets/languages/wp-mail-smtp-vue.php:199
+msgid "See the delivery status, track opens and clicks, and create deliverability graphs."
+msgstr "See the delivery status, track opens and clicks, and create deliverability graphs."
+
+#: assets/languages/wp-mail-smtp-vue.php:193
+msgid "Get notifications via email, SMS, Slack, or webhook when emails fail to send."
+msgstr "Get notifications via email, SMS, Slack, or webhook when emails fail to send."
+
+#: assets/languages/wp-mail-smtp-vue.php:190
+msgid "Instant Email Alerts"
+msgstr "Instant Email Alerts"
+
+#: assets/languages/wp-mail-smtp-vue.php:428
+msgid "This option must be enabled if you'd like to be able to resend emails. Please be aware that all email content will be stored in your WordPress database. This may include sensitive data, passwords, and personal details."
+msgstr "This option must be enabled if you'd like to be able to resend emails. Please be aware that all email content will be stored in your WordPress database. This may include sensitive data, passwords, and personal details."
+
+#: assets/languages/wp-mail-smtp-vue.php:422
+msgid "Enable these powerful logging features for more control of your WordPress emails."
+msgstr "Enable these powerful logging features for more control of your WordPress emails."
+
+#: assets/languages/wp-mail-smtp-vue.php:446
+msgid "See which links were clicked in emails sent from your WordPress site. Click tracking works with emails that are sent in HTML format."
+msgstr "See which links were clicked in emails sent from your WordPress site. Click tracking works with emails that are sent in HTML format."
+
+#: assets/languages/wp-mail-smtp-vue.php:440
+msgid "See which emails were opened by the recipients. Email open tracking works with emails that are sent in HTML format."
+msgstr "See which emails were opened by the recipients. Email open tracking works with emails that are sent in HTML format."
+
+#: assets/languages/wp-mail-smtp-vue.php:437
+msgid "Track when an email is opened"
+msgstr "Track when an email is opened"
+
+#: assets/languages/wp-mail-smtp-vue.php:434
+msgid "All file attachments sent from your site will be saved to the WordPress Uploads folder. Please note that this may reduce available disk space on your server."
+msgstr "All file attachments sent from your site will be saved to the WordPress uploads folder. Please note that this may reduce available disk space on your server."
+
+#: assets/languages/wp-mail-smtp-vue.php:431
+msgid "Save file attachments sent from WordPress"
+msgstr "Save file attachments sent from WordPress"
+
+#: assets/languages/wp-mail-smtp-vue.php:425
+msgid "Store the content for all sent emails"
+msgstr "Store the content for all sent emails"
+
+#: assets/languages/wp-mail-smtp-vue.php:419
+msgid "Configure Email Logs"
+msgstr "Configure Email Logs"
+
+#. Translators: Link to the Mailgun API settings.
+#: assets/languages/wp-mail-smtp-vue.php:230
+msgid "%1$sFollow this link%2$s to get a Private API Key from Mailgun."
+msgstr "%1$sFollow this link%2$s to get a Private API Key from Mailgun."
+
+#: src/Reports/Emails/Summary.php:257
+msgid "Let’s see how many emails you’ve sent with WP Mail SMTP."
+msgstr "Let’s see how many emails you’ve sent with WP Mail SMTP."
+
+#. translators: %s - path.
+#: src/Core.php:1332
+msgid "Current function path: %s"
+msgstr "Current function path: %s"
+
+#: src/Core.php:1327
+msgid "It looks like it's overwritten in the \"wp-config.php\" file. Please reach out to your hosting provider on how to disable or remove the \"wp_mail\" function overwrite to prevent conflicts with WP Mail SMTP."
+msgstr "It looks like it's overwritten in the \"wp-config.php\" file. Please reach out to your hosting provider on how to disable or remove the \"wp_mail\" function overwrite to prevent conflicts with WP Mail SMTP."
+
+#. translators: %s - must-use plugin name.
+#: src/Core.php:1323
+msgid "It looks like the \"%s\" must-use plugin is overwriting the \"wp_mail\" function. Please reach out to your hosting provider on how to disable or remove the \"wp_mail\" function overwrite to prevent conflicts with WP Mail SMTP."
+msgstr "It looks like the \"%s\" must-use plugin is overwriting the \"wp_mail\" function. Please reach out to your hosting provider on how to disable or remove the \"wp_mail\" function overwrite to prevent conflicts with WP Mail SMTP."
+
+#. translators: %s - plugin name.
+#: src/Core.php:1317
+msgid "It looks like the \"%s\" plugin is overwriting the \"wp_mail\" function. Please reach out to the plugin developer on how to disable or remove the \"wp_mail\" function overwrite to prevent conflicts with WP Mail SMTP."
+msgstr "It looks like the \"%s\" plugin is overwriting the \"wp_mail\" function. Please reach out to the plugin developer on how to disable or remove the \"wp_mail\" function overwrite to prevent conflicts with WP Mail SMTP."
+
+#: src/Core.php:1312
+msgid "WP Mail SMTP has detected incorrect \"wp_mail\" function location. Usually, this means that emails will not be sent successfully!"
+msgstr "WP Mail SMTP has detected incorrect \"wp_mail\" function location. Usually, this means that emails will not be sent successfully!"
+
+#: src/Conflicts.php:355
+msgid "Or deactivate \"SMTP\" module in Branda > Emails > SMTP."
+msgstr "Or deactivate \"SMTP\" module in Branda > Emails > SMTP."
+
+#: src/Admin/Pages/AlertsTab.php:224
+msgid "Webhook Alerts"
+msgstr "Webhook Alerts"
+
+#: src/Admin/Pages/AlertsTab.php:219
+msgid "Paste in the webhook URL you’d like to use to receive alerts when email sending fails. Read our documentation on setting up webhook alerts."
+msgstr "Paste in the webhook URL you’d like to use to receive alerts when email sending fails. Read our documentation on setting up webhook alerts."
+
+#: src/Admin/Pages/AlertsTab.php:218
+msgid "Webhook"
+msgstr "Webhook"
+
+#: src/Admin/Pages/AlertsTab.php:207
+msgid "To Phone Number"
+msgstr "To Phone Number"
+
+#: src/Admin/Pages/AlertsTab.php:201
+msgid "From Phone Number"
+msgstr "From Phone Number"
+
+#: src/Admin/Pages/AlertsTab.php:195
+msgid "Twilio Auth Token"
+msgstr "Twilio Auth Token"
+
+#: src/Admin/Pages/AlertsTab.php:189
+msgid "Twilio Account ID"
+msgstr "Twilio Account ID"
+
+#: src/Admin/Pages/AlertsTab.php:175
+msgid "SMS via Twilio Alerts"
+msgstr "SMS via Twilio Alerts"
+
+#: src/Admin/Pages/AlertsTab.php:170
+msgid "To receive SMS alerts, you’ll need a Twilio account. Read our documentation to learn how to set up Twilio SMS, then enter your connection details below."
+msgstr "To receive SMS alerts, you’ll need a Twilio account. Read our documentation to learn how to set up Twilio SMS, then enter your connection details below."
+
+#: src/Admin/Pages/AlertsTab.php:169
+msgid "SMS via Twilio"
+msgstr "SMS via Twilio"
+
+#: src/Admin/Pages/AlertsTab.php:158 src/Admin/Pages/AlertsTab.php:238
+msgid "Webhook URL"
+msgstr "Webhook URL"
+
+#: src/Admin/Pages/AlertsTab.php:144
+msgid "Slack Alerts"
+msgstr "Slack Alerts"
+
+#: src/Admin/Pages/AlertsTab.php:139
+msgid "Paste in the Slack webhook URL you’d like to use to receive alerts when email sending fails. Read our documentation on setting up Slack alerts."
+msgstr "Paste in the Slack webhook URL you’d like to use to receive alerts when email sending fails. Read our documentation on setting up Slack alerts."
+
+#: src/Admin/Pages/AlertsTab.php:138
+msgid "Slack"
+msgstr "Slack"
+
+#: src/Admin/Pages/AlertsTab.php:113
+msgid "Email Alerts"
+msgstr "Email Alerts"
+
+#: src/Admin/Pages/AlertsTab.php:108
+msgid "Enter the email addresses (3 max) you’d like to use to receive alerts when email sending fails. Read our documentation on setting up email alerts."
+msgstr "Enter the email addresses (3 max) you’d like to use to receive alerts when email sending fails. Read our documentation on setting up email alerts."
+
+#. translators: %s - WPMailSMTP.com Upgrade page URL.
+#: src/Admin/Pages/AlertsTab.php:88
+msgid "Configure at least one of these integrations to receive notifications when email fails to send from your site. Alert notifications will contain the following important data: email subject, email Send To address, the error message, and helpful links to help you fix the issue. <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Upgrade to WP Mail SMTP Pro!</a>"
+msgstr "Configure at least one of these integrations to receive notifications when email fails to send from your site. Alert notifications will contain the following important data: email subject, email Send To address, the error message, and helpful links to help you fix the issue. <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Upgrade to WP Mail SMTP Pro!</a>"
+
+#: src/Admin/Pages/AlertsTab.php:42 src/Admin/Pages/AlertsTab.php:82
+msgid "Alerts"
+msgstr "Alerts"
+
+#: assets/languages/wp-mail-smtp-vue.php:784
+msgid "There was an error while processing the authentication request. The authorization code is missing. Please try again."
+msgstr "There was an error while processing the authentication request. The authorisation code is missing. Please try again."
+
+#: assets/languages/wp-mail-smtp-vue.php:781 src/Admin/Area.php:149
+msgid "There was an error while processing the authentication request. The nonce is invalid. Please try again."
+msgstr "There was an error while processing the authentication request. The nonce is invalid. Please try again."
+
+#. translators: %s - API key link.
+#: src/Providers/Sendlayer/Options.php:113
+msgid "Follow this link to get an API Key from SendLayer: %s."
+msgstr "Follow this link to get an API Key from SendLayer: %s."
+
+#: src/Providers/Sendlayer/Options.php:72
+msgid "SendLayer"
+msgstr "SendLayer"
+
+#. translators: %1$s - URL to sendlayer.com; %2$s - URL to SendLayer
+#. documentation on wpmailsmtp.com.
+#: src/Providers/Sendlayer/Options.php:40
+msgid "<strong><a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">SendLayer</a> is our #1 recommended mailer.</strong> Its affordable pricing and simple setup make it the perfect choice for WordPress sites. SendLayer will authenticate your outgoing emails to make sure they always hit customers’ inboxes, and it has detailed documentation to help you authorize your domain.<br><br>You can send hundreds of emails for free when you sign up for a trial.<br><br>To get started, read our <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">SendLayer documentation</a>."
+msgstr "<strong><a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">SendLayer</a> is our #1 recommended mailer.</strong> Its affordable pricing and simple setup make it the perfect choice for WordPress sites. SendLayer will authenticate your outgoing emails to make sure they always hit customers’ inboxes, and it has detailed documentation to help you authorise your domain.<br><br>You can send hundreds of emails for free when you sign up for a trial.<br><br>To get started, read our <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">SendLayer documentation</a>."
+
+#: src/Admin/Pages/TestTab.php:970
+msgid "Verify your domain Region is correct."
+msgstr "Verify your domain Region is correct."
+
+#. translators: %1$s - Mailgun domains area URL.
+#: src/Admin/Pages/TestTab.php:959
+msgid "Verify your <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">Domain Name</a> is correct."
+msgstr "Verify your <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">Domain Name</a> is correct."
+
+#: src/Admin/Pages/MiscTab.php:130
+msgid "Hide Announcements"
+msgstr "Hide Announcements"
+
+#: src/Admin/Pages/AboutTab.php:278 src/Admin/Pages/SmartRoutingTab.php:289
+msgid "WPForms"
+msgstr "WPForms"
+
+#: src/Admin/ConnectionSettings.php:208
+msgid "Return Path indicates where non-delivery receipts - or bounce messages - are to be sent."
+msgstr "Return Path indicates where non-delivery receipts - or bounce messages - are to be sent."
+
+#: src/Admin/DashboardWidget.php:452
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: src/Admin/Area.php:266 src/Admin/Area.php:267 src/Admin/Area.php:1208
+msgid "Settings"
+msgstr "Settings"
+
+#: assets/languages/wp-mail-smtp-vue.php:591
+#: src/Providers/OptionsAbstract.php:316
+msgid "Authentication"
+msgstr "Authentication"
+
+#: assets/languages/wp-mail-smtp-vue.php:248
+#: src/Admin/ConnectionSettings.php:69 src/Admin/Pages/SmartRoutingTab.php:191
+#: src/Admin/Pages/SmartRoutingTab.php:221
+msgid "From Email"
+msgstr "From Email"
+
+#: assets/languages/wp-mail-smtp-vue.php:241
+#: src/Admin/ConnectionSettings.php:147 src/Admin/Pages/ExportTab.php:121
+msgid "From Name"
+msgstr "From Name"
+
+#: assets/languages/wp-mail-smtp-vue.php:579
+#: src/Providers/OptionsAbstract.php:280
+msgid "SMTP Port"
+msgstr "SMTP Port"
+
+#: assets/languages/wp-mail-smtp-vue.php:524 src/Admin/Pages/TestTab.php:249
+#: src/SiteHealth.php:352
+msgid "Send a Test Email"
+msgstr "Send a Test Email"
+
+#: assets/languages/wp-mail-smtp-vue.php:576
+#: src/Providers/OptionsAbstract.php:240
+msgid "Encryption"
+msgstr "Encryption"
+
+#: assets/languages/wp-mail-smtp-vue.php:573
+#: src/Providers/OptionsAbstract.php:226
+msgid "SMTP Host"
+msgstr "SMTP Host"
+
+#: src/Admin/ConnectionSettings.php:204
+msgid "Set the return-path to match the From Email"
+msgstr "Set the return-path to match the From Email"
+
+#: src/Admin/ConnectionSettings.php:194
+msgid "Return Path"
+msgstr "Return Path"
+
+#: assets/languages/wp-mail-smtp-vue.php:642
+#: src/Admin/ConnectionSettings.php:217 src/Admin/Pages/ExportTab.php:135
+msgid "Mailer"
+msgstr "Mailer"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: src/Admin/Area.php:255 src/Admin/Area.php:256 src/Admin/Area.php:313
+#: src/Admin/Area.php:314 src/Admin/DashboardWidget.php:168
+#: src/Admin/DashboardWidget.php:444 src/SiteHealth.php:43
+msgid "WP Mail SMTP"
+msgstr "WP Mail SMTP"
+
+#: src/Admin/Pages/AlertsTab.php:107
+msgid "Email"
+msgstr "Email"
